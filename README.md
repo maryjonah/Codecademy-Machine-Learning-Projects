@@ -10,5 +10,5 @@ Always check this file as links it will be updated with links to the projects as
    Use real data from Yelp to predict the Yelp rating of a restaurant.
 3. [**K-Nearest Neighbor: Breast Cancer Classifier**](https://github.com/maryjonah/Codecademy-Machine-Learning-Projects/blob/master/1_Supervised%20Learning/K-Nearest%20Neighbors_Breast%20Cancer%20Classifier.ipynb)  
    A K-Nearest Neighbor classifier that is trained to predict whether a patient has breast cancer.   
-4. [**Logistic Regression: Predict Titanic Survival**]()  
+4. [**Logistic Regression: Predict Titanic Survival**](https://github.com/maryjonah/Codecademy-Machine-Learning-Projects/blob/master/1_Supervised%20Learning/Logistic%20Regression_Predict%20Titanic%20Survival.ipynb)  
    A Logistic Regression model to predict whether an imaginary passenger who boarded the Titanis will survive or not.
