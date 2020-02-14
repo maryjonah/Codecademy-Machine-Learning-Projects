@@ -12,5 +12,5 @@ Always check this file as links it will be updated with links to the projects as
    A K-Nearest Neighbor classifier that is trained to predict whether a patient has breast cancer.   
 4. [**Logistic Regression: Predict Titanic Survival**](https://github.com/maryjonah/Codecademy-Machine-Learning-Projects/blob/master/1_Supervised%20Learning/Logistic%20Regression_Predict%20Titanic%20Survival.ipynb)  
    A Logistic Regression model to predict whether an imaginary passenger who boarded the Titanis will survive or not.
-5. [**Decision Trees: Find the Flag**]()  
+5. [**Decision Trees: Find the Flag**](https://github.com/maryjonah/Codecademy-Machine-Learning-Projects/blob/master/1_Supervised%20Learning/Decision%20Trees_Find%20the%20Flag.ipynb)  
    Guess the continent a flag comes from.
