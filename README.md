@@ -14,3 +14,5 @@ Always check this file as links it will be updated with links to the projects as
    A Logistic Regression model to predict whether an imaginary passenger who boarded the Titanis will survive or not.
 5. [**Decision Trees: Find the Flag**](https://github.com/maryjonah/Codecademy-Machine-Learning-Projects/blob/master/1_Supervised%20Learning/Decision%20Trees_Find%20the%20Flag.ipynb)  
    Guess the continent a flag comes from.
+6. [**Random Forests: Predicting Income with Random Forests**]()
+   Predict whether a person makes more than $50,000 or not.   
