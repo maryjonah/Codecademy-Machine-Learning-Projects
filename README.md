@@ -16,3 +16,5 @@ Always check this file as links it will be updated with links to the projects as
    Guess the continent a flag comes from.
 6. [**Random Forests: Predicting Income with Random Forests**](https://github.com/maryjonah/Codecademy-Machine-Learning-Projects/blob/master/1_Supervised%20Learning/Random%20Forests_Predicting%20Income.ipynb)  
    Predict whether a person makes more than $50,000 or not.   
+7. [**Naive Bayes Classifier: Email Similarity**]()
+   Find how difficult it is to distinguish between emails of different categories.   
