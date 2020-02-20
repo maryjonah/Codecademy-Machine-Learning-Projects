@@ -18,5 +18,5 @@ Always check this file as links it will be updated with links to the projects as
    Predict whether a person makes more than $50,000 or not.   
 7. [**Naive Bayes Classifier: Email Similarity**](https://github.com/maryjonah/Codecademy-Machine-Learning-Projects/blob/master/1_Supervised%20Learning/Naives%20Bayes_Email%20Similarity.ipynb)  
    Find how difficult it is to distinguish between emails of different categories.   
-8. [**Supervised Machine Learning Cumulative Project: Determine virality using KNearest Neighbor**]()  
+8. [**Supervised Machine Learning Cumulative Project: Determine virality using KNearest Neighbor**](https://github.com/maryjonah/Codecademy-Machine-Learning-Projects/blob/master/1_Supervised%20Learning/viral_tweets.ipynb)  
    Using some features of a tweet and the account owner can you determine whether a tweet would go viral or not?
